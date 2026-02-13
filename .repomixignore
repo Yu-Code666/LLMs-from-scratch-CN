@@ -1,0 +1,11 @@
+.git/
+imgs/
+**/.ipynb_checkpoints/
+**/__pycache__/
+.venv/
+setup/.vscode/
+ch02/02_bonus_bytepair-encoder/gpt2_model/encoder.json
+ch02/02_bonus_bytepair-encoder/gpt2_model/vocab.bpe
+ch06/01_main-chapter-code/sms_spam_collection*
+ch06/01_main-chapter-code/*.csv
+ch07/**/instruction-data*.json

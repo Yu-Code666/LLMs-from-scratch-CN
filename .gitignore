@@ -1,0 +1,50 @@
+# General
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / IDE
+.vscode/
+
+# Model artifacts and training outputs
+*.pth
+*.pt
+*.ckpt
+*.ckpt.*
+*.safetensors
+*.onnx
+*.h5
+*.pb
+*.pkl
+*.npy
+*.npz
+*.jsonl
+*.bin
+
+# Checkpoints / downloaded checkpoints
+checkpoints/
+ch05/01_main-chapter-code/gpt2/
+
+# Other generated outputs
+*.log
+*.out
+*.err
+*.pdf
+
+# Build / misc
+repomix-output.xml

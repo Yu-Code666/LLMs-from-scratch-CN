@@ -39,6 +39,11 @@ venv/
 # Checkpoints / downloaded checkpoints
 checkpoints/
 ch05/01_main-chapter-code/gpt2/
+ch06/01_main-chapter-code/gpt2/
+ch06/image/*.png
+ch06/01_main-chapter-code/train.csv
+ch06/01_main-chapter-code/test.csv
+ch06/01_main-chapter-code/validation.csv
 
 # Other generated outputs
 *.log

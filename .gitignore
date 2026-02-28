@@ -44,6 +44,14 @@ ch06/image/*.png
 ch06/01_main-chapter-code/train.csv
 ch06/01_main-chapter-code/test.csv
 ch06/01_main-chapter-code/validation.csv
+ch07/01_main-chapter-code/gpt2/**/checkpoint
+ch07/01_main-chapter-code/gpt2/**/*.ckpt.data-*
+ch07/01_main-chapter-code/gpt2/**/*.ckpt.index
+ch07/01_main-chapter-code/gpt2/**/*.ckpt.meta
+ch07/01_main-chapter-code/gpt2/**/*.bpe
+ch07/01_main-chapter-code/gpt2/**/vocab.bpe
+ch07/01_main-chapter-code/gpt2/**/encoder.json
+ch07/01_main-chapter-code/gpt2/**/hparams.json
 
 # Other generated outputs
 *.log
